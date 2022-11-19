@@ -1,0 +1,9 @@
+$primary-color: #64ff00;
+$light-text-color: #fefefe;
+$dark-text-color: #050505;
+
+:export {
+  primaryColor: $primary-color;
+  textColor: $light-text-color;
+  backgroundColor: $dark-text-color;
+}
